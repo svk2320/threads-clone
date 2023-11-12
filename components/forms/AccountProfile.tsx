@@ -124,7 +124,7 @@ const AccoutProfile = ({ user, btnTitle }: Props) => {
                     width={96}
                     height={96}
                     priority
-                    className="rounded-full object-contain"
+                    className="rounded-full object-cover aspect-[1]"
                   />
                 ) : (
                   <Image

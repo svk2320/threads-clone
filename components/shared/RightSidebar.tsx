@@ -20,8 +20,6 @@ async function RightSidebar() {
     pageSize: 4,
   });
 
-  console.log(result);
-
   return (
     <section className="custom-scrollbar rightsidebar">
       <div className="flex flex-1 flex-col justify-start">
