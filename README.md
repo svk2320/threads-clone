@@ -1,5 +1,5 @@
 # Threads Clone
-
+![thread App Screenshot](images/screenshot.png)
 Welcome to the Threads Clone repository! This is a simple yet powerful threaded discussion app. You can check out the live version [here](https://threads-clone-chi-orpin.vercel.app/).
 
 ## Features
